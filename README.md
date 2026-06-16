@@ -1,11 +1,18 @@
 # X1 Racing Asset Pack
 
-Stylized real-time racing assets created using Blender for mobile and prototype racing games.
+Stylized real-time racing asset project for mobile and prototype racing games.
 
-## Included Structure
-- Blender source files
-- Export workflow
-- Render setup
-- Texture pipeline
+## Included
+- Checkpoint gate blockout
+- Render setup notes
+- Texture workflow
+- Export pipeline
 - Portfolio planning
-- Reference organization
+
+## Software
+- Blender
+- Substance Painter
+- Unity
+
+## Goal
+Create optimized real-time racing assets for portfolio and internship applications.

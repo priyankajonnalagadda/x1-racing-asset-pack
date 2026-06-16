@@ -1,2 +1,1 @@
-# Render Setup
-Use Eevee with bloom and screen space reflections.
+Use Eevee with Bloom and SSR.

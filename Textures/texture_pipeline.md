@@ -1,2 +1,1 @@
-# Texture Pipeline
-PBR textures and material workflow notes.
+PBR texture workflow notes.

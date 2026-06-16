@@ -1,2 +1,1 @@
-# References
-Store racing game references and concept inspirations here.
+Store racing references and inspirations.
