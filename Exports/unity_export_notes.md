@@ -1,0 +1,1 @@
+Export settings for Unity: Apply transforms, triangulate meshes, export as FBX.

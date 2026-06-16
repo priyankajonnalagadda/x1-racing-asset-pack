@@ -1,1 +1,1 @@
-Use Eevee with Bloom and SSR.
+Use Eevee with Bloom, AO, and Screen Space Reflections enabled.
